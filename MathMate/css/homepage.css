@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #4ce0d2;
+}
+
+@media screen and (min-width:100px) and (max-width:768.9px) {
+	
+	
+}
+
+@media screen and (min-width:769px) {
+	
+.item-logo {
+    margin-left: 43vw;
+    }
+    .item-1 article {
+    background-color: #fbd019;
+    border: 1px solid white; 
+}
+.item-1 a {
+    color: white;
+    text-decoration: none;
+    
+}
+}
+
+
